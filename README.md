@@ -9,3 +9,4 @@ A Streamlit app that visualizes harmonica tab notation in real time, advancing a
 - [ ] Select a metronome sound
 - [ ] Retain different tabs and select which you want
 - [ ] Handle rhythm notation
+- [ ] iPad support
