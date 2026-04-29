@@ -7,6 +7,7 @@ A Streamlit app that visualizes harmonica tab notation in real time, advancing a
 - [ ] Count in
 - [ ] Add note names above the hole numbers
 - [ ] Ability to toggle note names on/off
+- [ ] Toggle the highlight on/off
 - [ ] Select a metronome sound
 - [ ] Retain different tabs and select which you want
 - [ ] Handle rhythm notation
